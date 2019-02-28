@@ -1,0 +1,1 @@
+# azure-profiles-for-autorest
